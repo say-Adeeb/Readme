@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <br><br>👋 Hi there! I’m Syed Adeeb — a data storyteller who believes that every dataset hides a story worth uncovering.<br>📊 From dashboards to predictions, I love exploring patterns that help businesses grow.<br>🧰 Tech Stack: Python | Power BI | Tableau | SQL | Excel<br>🌱 Currently learning advanced ML and dashboard automation.<br>☕ Fueled by coffee, curiosity, and creativity.
 
 
